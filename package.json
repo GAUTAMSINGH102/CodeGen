@@ -1,0 +1,59 @@
+{
+	"name": "CodeGen",
+	"displayName": "CodeGen",
+	"description": "A wonderfull AI powered tool to ease down your development process with smart automations",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:CodeGen.convert",
+		"onCommand:CodeGen.generate",
+		"onCommand:CodeGen.search",
+		"onCommand:CodeGen.write"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "CodeGen.convert",
+				"title": "CodeGen: Convert code"
+			},
+			{
+				"command": "CodeGen.generate",
+				"title": "CodeGen: Generate documentation"
+			},
+			{
+				"command": "CodeGen.search",
+				"title": "CodeGen: Do semantic search"
+			},
+			{
+				"command": "CodeGen.write",
+				"title": "CodeGen: Write code"
+			}
+		]
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.63.0",
+		"@types/glob": "^7.2.0",
+		"@types/mocha": "^9.0.0",
+		"@types/node": "14.x",
+		"eslint": "^8.6.0",
+		"glob": "^7.2.0",
+		"mocha": "^9.1.3",
+		"typescript": "^4.5.4",
+		"@vscode/test-electron": "^2.0.3"
+	},
+	"dependencies": {
+		"dotenv": "^14.3.2",
+		"openai": "^2.0.2"
+	}
+}
