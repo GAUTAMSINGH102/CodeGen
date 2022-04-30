@@ -2,6 +2,7 @@
 # VS Code Extension - Smart Automations
 
 Your smart companion for your coding journey.
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Run Locally
 
@@ -28,7 +29,7 @@ Open it in VS Code and start the server
 ```bash
   Press F5
 ```
-
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Features
 
@@ -37,6 +38,7 @@ Open it in VS Code and start the server
 - Automatically generates documentation for all provided code functions and classes.
 - Semantic search in any file.
 
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Demo
 
@@ -76,10 +78,13 @@ Format:
 - Search anything with logical sense and Press `Enter`.
 - Whichever line is making most sense with your search will be get highlighted with viewpoint centered.
 
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Requirements
 
 Open AI API Key - visit the [website](https://openai.com/api/) to get one.
+
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### Extension settings
 - Disable SSL Verification in your VS Code manually on a temporary basis in order to make this Extension run.
@@ -90,6 +95,9 @@ Open AI API Key - visit the [website](https://openai.com/api/) to get one.
   3. Now click on "Proxy".
   4. Uncheck "System Certificates".
 ```
+
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -104,13 +112,12 @@ Make sure to checkout the the path of .env file while importing it into the `ext
 #### 0.1.0
 Initial release
 
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
-## Author
+## Made With ❤ by - 
 
 - [@adityasingh10042](https://www.github.com/adityasingh10042)
-- [@SKSahani](https://www.github.com/SKSahani)
-- [@kanand2003](https://www.github.com/kanand2003)
+- [@GAUTAMSINGH102](https://github.com/GAUTAMSINGH102)
 
 
 
