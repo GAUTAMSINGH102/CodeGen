@@ -6,7 +6,7 @@ console.log('hello')
 //Functionalities:
 // 1. A code editor extension that allows for code sharing and collaboration between different programming languages.
 // 2. A code editor extension that automatically generates documentation for all code functions and classes.
-// 3. Semantic Search.
+// 3. Semantic Search
 // 4. Writing programming code using instructions in natural languages.
 
 /**
