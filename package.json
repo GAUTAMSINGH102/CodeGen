@@ -1,7 +1,7 @@
 {
 	"name": "CodeGen",
 	"displayName": "CodeGen",
-	"description": "A wonderfull AI powered tool to ease down your development process with smart automations",
+	"description": "A wonderfull AI powered tool to ease down your development process with smart automations.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.63.0"
