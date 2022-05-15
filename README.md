@@ -6,7 +6,7 @@ Your smart companion for your coding journey.
 
 ## Run Locally
 
-Clone the project
+Clone the project:
 
 ```bash
   git clone https://link-to-project
